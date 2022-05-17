@@ -1,0 +1,5 @@
+1. Aftering typing in the command ls > newfile.txt and viewing the contents of this folder again, I saw that the file newfile.txt was created. Therefore, I believe the > combined with the ls command is to add the specified file to whichever directory you're in, while also listing the contents of the directory, then shows you the contents of said directory.
+
+2. After adding this file to the git repository and running git status, it informed me that the change to be committed to git would be that the new file would be added.
+
+3. The command git diff gives me the contents included in the the newfile.txt file, whilst also showing me which parts have been changed/added since I last committed it to git.
